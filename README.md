@@ -10,7 +10,7 @@ Web developer || React   <img src="https://raw.githubusercontent.com/devicons/de
 </a>
 
 ## Frontend
-<a href="#">
+<a style="display:flex ; flex-direction:row ; gap:6px ; " href="#">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
