@@ -1,4 +1,4 @@
-# Very Opinionated developer.... master of little
+# Very Opinionated developer.... master of some
 
 Web developer || React   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="19" height="17"/>
 || Go   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="python" width="19" height="17"/>
@@ -22,5 +22,4 @@ Web developer || React   <img src="https://raw.githubusercontent.com/devicons/de
  <img src="https://github.com/gorilla/.github/assets/53367916/d92caabf-98e0-473e-bfbf-ab554ba435e5"
          alt="Gorilla Logo" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
-
+</a>i
