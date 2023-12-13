@@ -1,7 +1,7 @@
 # Very Opinionated developer.... master of some
 
-Web developer || React   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="19" height="17"/>
-|| Go   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="python" width="19" height="17"/>
+Web developer | React   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="19" height="17"/>
+| Go   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="python" width="19" height="17"/>
 
 ## Languages
 <div style="text-decoration: none; color: transparent;" >
