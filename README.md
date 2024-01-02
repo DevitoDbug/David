@@ -7,6 +7,7 @@ Web developer | React   <img src="https://raw.githubusercontent.com/devicons/dev
 <div style="text-decoration: none; color: transparent;" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </div>
 
 ## Frontend
