@@ -28,5 +28,7 @@ Web developer | React   <img src="https://raw.githubusercontent.com/devicons/dev
 </div>
 
 ## Other Tools
+<div> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="47" height="47" />
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="firebase" width="40" height="40"/>
+</div>
