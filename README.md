@@ -17,6 +17,11 @@ Web developer | React   <img src="https://raw.githubusercontent.com/devicons/dev
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
 </div>
 
+## Mobile
+<div style="display:flex ; flex-direction:row ; gap:6px ; text-decoration: none; " >
+    <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react_native" width="40" height="40"/>
+  </div>
+
 ## Backend
 <div style="text-decoration: none;" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="python" width="40" height="40"/>
