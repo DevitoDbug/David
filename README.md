@@ -20,7 +20,7 @@ Web developer | React   <img src="https://raw.githubusercontent.com/devicons/dev
 ## Mobile
 <div style="display:flex ; flex-direction:row ; gap:6px ; text-decoration: none; " >
     <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react_native" width="47" height="47"/>
-      <img src="  https://cdn.worldvectorlogo.com/logos/expo-1.svg" alt="react_native" width="47" height="47"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" alt="expo" width="47" height="47"/>
   </div>
 
 ## Backend
