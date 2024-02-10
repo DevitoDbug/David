@@ -1,4 +1,4 @@
-# Crafting Digital Magic with Golang and ~~JavaScript~~ Typescript
+# Crafting Digital Magic with Golang and ~~Javascript~~ Typescript
 
 Web developer | React   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="19" height="17"/>
 | Go   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="python" width="19" height="17"/>
