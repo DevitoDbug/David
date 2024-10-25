@@ -1,8 +1,4 @@
-# Crafting Digital Magic with Golang and Typescript
-
-Web developer | React   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="19" height="17"/>
-| Go   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="python" width="19" height="17"/>
-
+# I am familiar with the following: 
 ## Languages
 <div style="display: flex; flex-direction: row; gap: 5px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40" />
