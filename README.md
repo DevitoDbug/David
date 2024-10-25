@@ -13,14 +13,14 @@ Web developer | React   <img src="https://raw.githubusercontent.com/devicons/dev
 ## Frontend
 <div style="display:flex ; flex-direction:row ; gap:6px ; text-decoration: none; " >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
 </div>
 
 ## Mobile
 <div style="display:flex ; flex-direction:row ; gap:6px ; text-decoration: none; " >
     <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react_native" width="47" height="47"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" alt="expo" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" alt="expo" width="40" height="40"/>
   </div>
 
 ## Backend
