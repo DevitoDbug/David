@@ -26,12 +26,11 @@ Web developer | React   <img src="https://raw.githubusercontent.com/devicons/dev
 
 ## Backend
 <div style="text-decoration: none;" >
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="python" width="40" height="40"/>
- <img src="https://github.com/gorilla/.github/assets/53367916/d92caabf-98e0-473e-bfbf-ab554ba435e5"
-         alt="Gorilla Logo" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="47" height="47"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  <img src="https://github.com/gorilla/.github/assets/53367916/d92caabf-98e0-473e-bfbf-ab554ba435e5" alt="Gorilla Logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="47" height="47"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
 </div>
 
 ## Other Tools
